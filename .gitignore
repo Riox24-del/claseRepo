@@ -1,0 +1,14 @@
+#ejemplo de comentario
+
+/secretos.txt   
+#todo lo que se llama asi no se va subir(sin la diagonal secretos.txt)
+
+*.js
+*.jpg
+*.png
+#todos los archivos con x extension no se van a subir
+
+node-modules
+#va ignorar toda la carpeta
+
+carpeta para ignorar
